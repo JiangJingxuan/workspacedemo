@@ -1,0 +1,10 @@
+{
+    "name": "officialfoundation",
+    "version": "1.0.0",
+    "author": "gs",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ]
+}
